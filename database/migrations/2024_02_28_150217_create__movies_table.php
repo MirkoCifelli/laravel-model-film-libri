@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('original_title', 32);
             $table->boolean('imax');
             $table->time('duration');
+            
             $table->timestamps();
         });
     }
