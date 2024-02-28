@@ -14,6 +14,12 @@ class MovieSeeder extends Seeder
      */
     public function run(): void
     {
-        //
+        Movie::truncate();
+
+        for ($i = 0; $i < 10 ; $i++) {
+            $movie = new Movie();
+            $movie->title = fake()->
+            $movie->save();   
+    }
     }
 }
