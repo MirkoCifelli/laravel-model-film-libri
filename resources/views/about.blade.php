@@ -4,6 +4,6 @@
 
 @section('main-content')
 <h1>
-    About | Laravel template
-</h1>
+    About | Laravel template   
+</h1> 
 @endsection
