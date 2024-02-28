@@ -4,7 +4,7 @@
 
 @section('main-content')
 <h1>
-    Laravel template Welcome
+    patate al forno database
 </h1>
 
 @endsection
