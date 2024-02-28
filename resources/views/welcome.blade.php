@@ -7,7 +7,7 @@
     patate al forno database
 </h1>
 <h2>
-    patete lesseb
+    patete lessea
 </h2>
 <div>ciao+
     come state ? male
